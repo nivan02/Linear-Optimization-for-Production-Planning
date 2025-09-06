@@ -1,4 +1,4 @@
-# 🧵 Production & Outsourcing Optimization – Textile Industry Case
+# 🧵 Production & Outsourcing Optimization
 
 This project focuses on optimizing **production and outsourcing strategies** for a textile manufacturer using **Excel-based linear programming models**. The analysis evaluates internal production capacity, outsourcing costs, and supplier trade-offs to develop a strategy that minimizes costs while fulfilling demand and respecting operational constraints.
 
